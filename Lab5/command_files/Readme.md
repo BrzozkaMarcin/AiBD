@@ -1,1 +1,0 @@
-W tym katalogu zamieszczony jest kod programu przetwarzajacy oryginalne dane na bardziej przejrzyste i czytelne.

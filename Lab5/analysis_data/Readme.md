@@ -1,1 +1,0 @@
-W tym katalogu zamieszczone są pliki z uporządkowanymi, czytelniejszymi danymi w dwóch wersjach rozszerzeniowych - .csv oraz .xlsx.

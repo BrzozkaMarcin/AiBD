@@ -14,3 +14,5 @@ Uzyskane kolumny:
 * data szczytowania;
 * numer tygodnia;
 * miejsce w rankingu w danym tygodniu.
+
+Dane zapisano w wersjach rozszerzeniowych - .csv oraz .xlsx.
